@@ -1,1 +1,2 @@
-test the document 
+test the document
+change from terminal
